@@ -725,4 +725,4 @@ The goal of this project is to demonstrate how **RAG can turn static university 
 Instead of manually searching through multiple PDFs, students can ask natural-language questions and receive answers grounded in the university's documented policies and academic information.
 
 
-App link: 
+App link: https://university-knowledge-base.streamlit.app/
